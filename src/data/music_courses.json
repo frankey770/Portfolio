@@ -1,1 +1,156 @@
-
+[
+  {
+    "id": 1,
+    "title": "2048 Game",
+    "slug": "2048-game",
+    "heading": "Classic 2048 Puzzle Game",
+    "description": "A fully functional 2048 game built with modern web technologies featuring smooth animations and responsive design.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/2048.png"
+  },
+  {
+    "id": 2,
+    "title": "Amazon Clone",
+    "slug": "amazon-clone",
+    "heading": "Full Stack Amazon Clone",
+    "description": "A full-stack e-commerce application inspired by Amazon with product listings, cart, and checkout functionality.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/amazon.avif"
+  },
+  {
+    "id": 3,
+    "title": "Appointment Scheduler",
+    "slug": "appointment-scheduler",
+    "heading": "Smart Appointment Booking System",
+    "description": "An intelligent appointment scheduling system with calendar integration and automated reminders.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/appointment.png"
+  },
+  {
+    "id": 4,
+    "title": "CAD ECG Classifier",
+    "slug": "cad-ecg-classifier",
+    "heading": "ECG-Based Coronary Artery Disease Detection",
+    "description": "A machine learning model that detects Coronary Artery Disease from ECG signals using deep learning techniques.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/cad_ecg.png"
+  },
+  {
+    "id": 5,
+    "title": "Face & License Plate Recognition",
+    "slug": "face-license-recognition",
+    "heading": "AI-Powered Face and License Plate Detection",
+    "description": "A computer vision project that detects and recognizes faces and vehicle license plates in real-time using OpenCV and deep learning.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/face_license.png"
+  },
+  {
+    "id": 6,
+    "title": "Handwritten OCR",
+    "slug": "handwritten-ocr",
+    "heading": "Handwritten Text Recognition System",
+    "description": "An OCR system that converts handwritten text into digital format using convolutional neural networks.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/handwritten_ocr.png"
+  },
+  {
+    "id": 7,
+    "title": "IVF Success Predictor",
+    "slug": "ivf-success-predictor",
+    "heading": "ML-Based IVF Outcome Prediction",
+    "description": "A machine learning application that predicts IVF treatment success rates based on patient data and medical history.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/ivf.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Machine Learning Classifier",
+    "slug": "ml-classifier",
+    "heading": "Multi-Class Machine Learning Classifier",
+    "description": "A comprehensive ML classification system implementing multiple algorithms including SVM, Random Forest, and Neural Networks.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/MLC.png"
+  },
+  {
+    "id": 9,
+    "title": "Movie Recommendation Deck",
+    "slug": "movie-deck",
+    "heading": "AI Movie Recommendation System",
+    "description": "A collaborative filtering-based movie recommendation engine that suggests personalized films based on user preferences.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/Movie deck.png"
+  },
+  {
+    "id": 10,
+    "title": "Pixel Pen",
+    "slug": "pixel-pen",
+    "heading": "Digital Drawing & Pixel Art Tool",
+    "description": "A creative web-based pixel art drawing tool with layering, color palettes, and export functionality.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/Pixel-Pen.png"
+  },
+  {
+    "id": 11,
+    "title": "SmartBridge Backend",
+    "slug": "smartbridge-backend",
+    "heading": "Enterprise Backend System at SmartBridge",
+    "description": "A scalable backend system developed during ML internship at SmartBridge featuring REST APIs and data pipelines.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/smartbridge_backend.png"
+  },
+  {
+    "id": 12,
+    "title": "Tic Tac Toe AI",
+    "slug": "tic-tac-toe",
+    "heading": "Unbeatable Tic Tac Toe with Minimax AI",
+    "description": "A classic Tic Tac Toe game powered by the Minimax algorithm, making it virtually unbeatable.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": false,
+    "image": "/courses/tictactoe.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Twitter Clone",
+    "slug": "twitter-clone",
+    "heading": "Full Stack Twitter-Like Social Platform",
+    "description": "A social media platform clone with real-time updates, user authentication, tweets, likes, and follow system.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/twitter.png"
+  },
+  {
+    "id": 14,
+    "title": "Web Portfolio",
+    "slug": "web-portfolio",
+    "heading": "Personal Developer Portfolio Website",
+    "description": "A modern, animated personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.",
+    "price": 0,
+    "instructor": "Frank Veedhi",
+    "isFeatured": true,
+    "image": "/courses/web_portfolio.png"
+  }
+]
