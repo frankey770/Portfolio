@@ -1,5 +1,4 @@
 "use client";
-
 import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 import { cn } from "@/lib/utils";
@@ -17,35 +16,40 @@ function Navbar({ className }: { className?: string }) {
             setActive={setActive}
             active={active}
             item="Home"
-          ></MenuItem>
+          >
+          </MenuItem>
         </Link>
-        {/* <Link href="/about">
+        {/* <Link href={"/about"}>
           <MenuItem
             setActive={setActive}
             active={active}
             item="About"
-          ></MenuItem>
+          >
+          </MenuItem>
         </Link> */}
-        <Link href="/experience">
+        <Link href={"/experience"}>
           <MenuItem
             setActive={setActive}
             active={active}
             item="Experience"
-          ></MenuItem>
+          >
+          </MenuItem>
         </Link>
         <Link href={"/projects"}>
           <MenuItem
             setActive={setActive}
             active={active}
             item="Projects"
-          ></MenuItem>
+          >
+          </MenuItem>
         </Link>
-        <Link href="/contactus">
+        <Link href={"/contactus"}>
           <MenuItem
             setActive={setActive}
             active={active}
             item="Contact Me"
-          ></MenuItem>
+          >
+          </MenuItem>
         </Link>
       </Menu>
     </div>
